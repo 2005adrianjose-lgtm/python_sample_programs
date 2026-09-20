@@ -149,4 +149,3 @@ print(cube(3))
 is_odd=lambda x:x%2!=0
 print(is odd(7))
 """
-

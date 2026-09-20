@@ -109,7 +109,7 @@ for item in range(1,11):
     #print(multiple,"*",item,"=",item*multiple)
     print(f"{multiple} * {item} = {item*multiple}")
  """   
- """
+"""
 value=1
 iterations=int(input("Enter the number of iterations: "))
 while value<=iterations:
